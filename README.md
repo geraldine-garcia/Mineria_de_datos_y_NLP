@@ -1,4 +1,4 @@
-En este repositorio encontrarás la minería de datos para dos textos, una biografía y un cuento. Encontrarás limpieza de textos por parrafos, oraciones, tokens, así como análsis de histogramas y demás códigos necesarios para limpiar, y analizar un texto en formato txt.
+En este repositorio encontrarás la minería de textos para dos textos, una biografía y un cuento. Encontrarás limpieza de textos por parrafos, oraciones, tokens, así como análsis de histogramas y demás códigos necesarios para limpiar, y analizar un texto en formato txt.
 
 Cabe aclarar que es necesario que el usuario ingrese a Master, donde podrá visualizar el README, los dos textos y la minería de datos.
 
